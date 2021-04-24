@@ -120,6 +120,7 @@ Colab
 #
 
 > After ten epochs, you 20% accuracy which is better than 1 in 26. So, actually I’m surprised how good it was after, you know, that many epochs.  
+*this [notebook]() is the one shown that goes for 10 epochs*
 
 ### ImageNet dataset and MobileNet network architecture - transfer learning
 
@@ -143,7 +144,8 @@ model thinks
 
 #
 
-> So, run it for longer *[this notebook goes for 100 epochs]()*.  Twenty epochs, it’s at 36% which is one in three or better than one in three.  
+> So, run it for longer.  Twenty epochs, it’s at 36% which is one in three or better than one in three.  
+*this [notebook]() is the one shown that goes for 100 epochs*
 
 ### ImageNet dataset and MobileNet network architecture - transfer learning
 
