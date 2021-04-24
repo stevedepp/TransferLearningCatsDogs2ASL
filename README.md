@@ -158,7 +158,7 @@ model thinks
 
 #
 
-> After a hundred epochs, we’re at 77% accuracy which is actually where my model got it to last year, and then at the beginning of this term when I showed you [this](https://github.com/stevedepp/FMNIST_classification/blob/master/README.md).  The validation accuracy is 100% which means it’s basically memorizing the validation data.  There are 180 training images and 20 of the validation images. So, it’s not surprising it memorizes the validation. 
+> After a hundred epochs, we’re at 77% accuracy which is actually where my model got it to last year, and then at the beginning of this term when I showed you [this](https://github.com/stevedepp/FMNIST_classification/blob/master/README.md){:target="_blank"}.  The validation accuracy is 100% which means it’s basically memorizing the validation data.  There are 180 training images and 20 of the validation images. So, it’s not surprising it memorizes the validation. 
 
 ### ImageNet dataset and MobileNet network architecture - transfer learning
 
