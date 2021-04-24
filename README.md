@@ -120,7 +120,8 @@ Colab
 #
 
 > After ten epochs, you 20% accuracy which is better than 1 in 26. So, actually I’m surprised how good it was after, you know, that many epochs.  
-*this [notebook](https://github.com/stevedepp/TransferLearningCatsDogs2ASL/blob/main/1_keras_custom_classifier_with_transfer_learning_10_epochs.ipynb) is the one shown that goes for 10 epochs*
+
+*[this [notebook](https://github.com/stevedepp/TransferLearningCatsDogs2ASL/blob/main/1_keras_custom_classifier_with_transfer_learning_10_epochs.ipynb) is the one shown that goes for 10 epochs]*
 
 ### ImageNet dataset and MobileNet network architecture - transfer learning
 
@@ -145,7 +146,8 @@ model thinks
 #
 
 > So, run it for longer.  Twenty epochs, it’s at 36% which is one in three or better than one in three.  
-*this [notebook](https://github.com/stevedepp/TransferLearningCatsDogs2ASL/blob/main/1_keras_custom_classifier_with_transfer_learning_100_epochs.ipynb) is the one shown that goes for 100 epochs*
+
+[*this [notebook](https://github.com/stevedepp/TransferLearningCatsDogs2ASL/blob/main/1_keras_custom_classifier_with_transfer_learning_100_epochs.ipynb) is the one shown that goes for 100 epochs*]
 
 ### ImageNet dataset and MobileNet network architecture - transfer learning
 
