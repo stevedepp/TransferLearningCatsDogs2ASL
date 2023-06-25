@@ -4,7 +4,7 @@ Learning derived from ImageNet dogs n cats on MobileNet transfered to American S
 
 #
 
-Please click the video below to hear sound or follow along with the transcript that's set just below the video.  This repo contains the Colab notebooks from the video/slides/transcripts.
+Please unmute the video below to hear sound or follow along with the transcript that's set just below the video.  This repo contains the Colab notebooks from the video/slides/transcripts.
 
 <video src="https://user-images.githubusercontent.com/38410965/111880073-a2327600-897f-11eb-8728-7b9eba6a7b14.mp4" autoplay controls loop muted style="max-width: 730px;">
 </video>
