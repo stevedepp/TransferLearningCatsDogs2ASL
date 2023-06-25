@@ -9,9 +9,6 @@ Please click the video below to hear sound or follow along with the transcript t
 <video src="https://user-images.githubusercontent.com/38410965/111880073-a2327600-897f-11eb-8728-7b9eba6a7b14.mp4" autoplay controls loop muted style="max-width: 730px;">
 </video>
 
-
-![demo](https://user-images.githubusercontent.com/38410965/111880073-a2327600-897f-11eb-8728-7b9eba6a7b14.mp4)
-
 #
 
 > Hi.  This is Steve Depp.  Thank you for watching my demo video on transfer learning.  This week we’re using the ImageNet data set and the MobileNet architecture as represented in the Jupyter notebook from chapter 3 of the textbook. 
